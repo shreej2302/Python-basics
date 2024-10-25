@@ -23,6 +23,7 @@ for i in range(0, 6):
   #append is a function that lists understand
   elements.append(i)
 
+
 #now we can print them too
 for i in elements:
   print("Elements was:", i)
