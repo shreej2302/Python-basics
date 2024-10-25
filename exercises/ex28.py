@@ -3,7 +3,6 @@ fruits = ['apples', 'oranges', 'pears', 'apricots']
 change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
 
 #this kind of for-loop goes through a list
-
 for number in the_count:
   print("This is count " + str(number))
 
