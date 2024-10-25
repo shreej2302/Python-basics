@@ -56,3 +56,4 @@ for i in range(0, 6):
 #now we can print them too
 for i in elements:
   print("Elements was:", i)
+  
